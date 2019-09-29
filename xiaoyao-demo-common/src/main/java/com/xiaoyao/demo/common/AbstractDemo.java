@@ -11,7 +11,7 @@ public abstract class AbstractDemo implements CommandLineRunner {
 
     protected Logger logger = LoggerFactory.getLogger(getClass());
 
-    protected abstract void demo();
+    protected abstract void demo() throws Exception;
 
     @Override
     public void run(String... args) throws Exception {
