@@ -11,6 +11,16 @@
 
     <artifactId>xiaoyao-demo-common</artifactId>
 
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>xiaoyao</groupId>
+                <artifactId>xiaoyao-demo-common</artifactId>
+                <version>1.0.0</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
