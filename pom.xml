@@ -19,6 +19,7 @@
         <module>xiaoyao-demo-common</module>
         <module>xiaoyao-demo-zookeeper</module>
         <module>xiaoyao-demo-commons-cli</module>
+        <module>xiaoyao-demo-jdk</module>
     </modules>
 
     <build>
