@@ -20,6 +20,7 @@
         <module>xiaoyao-demo-zookeeper</module>
         <module>xiaoyao-demo-commons-cli</module>
         <module>xiaoyao-demo-jdk</module>
+        <module>xiaoyao-demo-scope</module>
     </modules>
 
     <build>
